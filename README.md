@@ -6,7 +6,6 @@
 
 - 🌱 I’m currently learning **Mongo DB|Express|React|Node.js**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
